@@ -1,6 +1,6 @@
-## First Name Last Name
+## Emily Pelletier 
 
-### Term Year 
+### Spring 2021 
 
 DSBA student at [Florida Polytechnic University](https://www.floridapoly.edu) currently enrolled in: 
 
