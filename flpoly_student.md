@@ -4,20 +4,20 @@
 
 DSBA student at [Florida Polytechnic University](https://www.floridapoly.edu) currently enrolled in: 
 
-- Course 1
+- Statistics
 
-- Course 2
+- Micro Economics
 
-- Course 3
+- Data Science
 
-- Course 4
+- Entrepreneurial
 
 **Hobbies:**
 
 I am _passionate about_: 
 
-- Thing 1
+- running
 
-- Thing 2
+- cows
 
-- Thing 3 as shown in this website <https://www.floridapoly.edu>
+- Disney as shown in this website <https://disneyworld.disney.go.com/>
