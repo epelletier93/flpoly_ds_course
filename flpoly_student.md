@@ -4,13 +4,14 @@
 
 DSBA student at [Florida Polytechnic University](https://www.floridapoly.edu) currently enrolled in: 
 
-- Statistics
+- **STA 2023** *Statistics*   Credits 3
 
-- Micro Economics
+- **ECO 2023** *Micro Economics*  Credits 3
 
-- Data Science
+- **COP 2073** *Data Science*  Credits 3
 
-- Entrepreneurial
+- **ENT 2112** *Entrepreneurial*  Credits 3
+- **Total Credits** 12 
 
 **Hobbies:**
 
